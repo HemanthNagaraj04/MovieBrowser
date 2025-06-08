@@ -169,8 +169,8 @@ body {
   padding: 10px;
   color: #e0e0e0;
   text-align: center;
-  white-space: nowrap;         /* Prevents line break */
-  overflow: hidden;            /* Hides overflowed text */
-  text-overflow: ellipsis;     /* Adds "..." to truncated text */
+  white-space: nowrap;        
+  overflow: hidden;           
+  text-overflow: ellipsis;     
 }
 

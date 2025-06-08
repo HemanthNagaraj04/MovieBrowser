@@ -37,7 +37,7 @@ function App() {
   return (
     <main>
       <div className="wrapper">
-        <img src="./public/hero.png" alt="hero" className="overlay" />
+        <img src="./hero.png" alt="hero" className="overlay" />
         <header className="hero-text">
           <h1>ONE STOP FOR ALL YOUR <span className="highlight">MOVIES</span></h1>
         </header>

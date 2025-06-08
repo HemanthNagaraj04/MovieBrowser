@@ -1,4 +1,3 @@
-
 const BrowseSection = ({ title, movies }) => {
   return (
     <section className="browse-container">
