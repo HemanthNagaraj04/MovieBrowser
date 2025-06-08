@@ -2,6 +2,8 @@
 
 Movie Browser is a sleek and responsive React application built with Vite that lets users search, browse, and explore movies using the OMDb API. Featuring categorized movie sliders and a powerful search functionality, it’s your one-stop app to discover films across genres and franchises like Marvel and DC.
 
+Access the webpage here: https://hemanthnagaraj04.github.io/MovieBrowser/
+
 ## Features
 
 - Search movies by title with instant results  
@@ -28,8 +30,4 @@ Movie Browser is a sleek and responsive React application built with Vite that l
 - Vite for fast development and bundling  
 - OMDb API for movie data  
 - CSS Flexbox and Grid for layout  
-<<<<<<< HEAD
 - Environment variables for secure API key management
-=======
-- Environment variables for secure API key management
->>>>>>> a885548 (Fixed minor issues (patch-1))
