@@ -28,4 +28,8 @@ Movie Browser is a sleek and responsive React application built with Vite that l
 - Vite for fast development and bundling  
 - OMDb API for movie data  
 - CSS Flexbox and Grid for layout  
+<<<<<<< HEAD
 - Environment variables for secure API key management
+=======
+- Environment variables for secure API key management
+>>>>>>> a885548 (Fixed minor issues (patch-1))
